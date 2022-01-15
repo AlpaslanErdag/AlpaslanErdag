@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlpaslanErdag
+- 👋 Hi, I’m [@AlpaslanErdag](https://github.com/AlpaslanErdag)
 - 👀 I’m interested in Speech Recognition and NLP
 - 🌱 I’m currently learning machine learning methods
 - 💞️ I’m looking to collaborate on Natural Language Process(NLP)
