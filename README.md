@@ -12,11 +12,14 @@
   </a>
 </div>
 
+
+
+
 - 👋 Hi, I’m [@AlpaslanErdag](https://github.com/AlpaslanErdag)
 - 👀 I’m interested in Speech Recognition and NLP
 - 🌱 I’m currently learning machine learning methods
 - 💞️ I’m looking to collaborate on Natural Language Process(NLP)
-
+<img src="https://komarev.com/ghpvc/?username=AlpaslanErdag&style=flat-square&color=blue" alt=""/>
 
 
 
