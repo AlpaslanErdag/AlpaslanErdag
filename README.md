@@ -12,19 +12,6 @@
   </a>
 </div>
 
-<h1 align="center"> 
-  My Stats
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlpaslanErdag&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-
-<!---
-AlpaslanErdag/AlpaslanErdag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # Hi there, I'm Alpaslan! 👋
 
 <p align="left">
